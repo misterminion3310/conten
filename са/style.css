@@ -1,0 +1,54 @@
+*{
+    margin: 7;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(151, 150, 150);
+    color: rgb(53, 53, 53);
+}
+
+header{
+     text-align: center;
+    margin-bottom: 40px;
+    padding: 10px;
+    background-color: rgb(99, 99, 99);
+    border-radius: 8px;
+    box-shadow: 0 10px 15px rgb(59, 59, 59);
+}
+
+.footer {
+    text-align: center;
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: rgb(99, 99, 99);
+    border-radius: 8px;
+    box-shadow: 0 10px 15px rgb(59, 59, 59);
+}
+
+h1{
+  font-family: "Gravitas One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2{
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: dimgray;
+    border-radius: 6px;
+    font-family: "Oi", serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+
+.tetka{
+    border-radius: 10%;
+    margin-bottom: 10px;
+    padding: 5px;
+    background-color: rgb(65, 65, 65);
+    box-shadow: 0 8px 14px rgb(99, 99, 99);
+}
+
